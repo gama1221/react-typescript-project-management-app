@@ -111,7 +111,7 @@ Clone this repository to your desired folder:
 ```sh
   mkdir project
   cd project
-  git https://github.com/gama1221/react-typescript-app.git
+  git https://github.com/gama1221/react-typescript-project-management-app.git
 ```
 
 ### Install
@@ -149,7 +149,7 @@ To run and see errors in this project, execute the following command:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank typescript for additional features to javascript
+I would like to thank Typescript for additional features to javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ I would like to thank typescript for additional features to javascript
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **How to set up a project with linter i.e. css linter**
+- **How to set up a project with linter i.e. CSS linter**
 
   - This project can have the answer
 
