@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b>project management application using React & Typescript</b></h3>
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Tourist Places Indicator <a name="about-project"></a>
 
-> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them! You will also get your first code review. This is also a process that will be used in all Microverse projects.
+> Build a project management application step-by-step in React by following the directions below.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -69,11 +69,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, click star and fork it.
+If you like this project, click the star and fork it.
 
 ### Key Features <a name="key-features"></a>
 
-> This project contains three simple files such as hello.html, hello.css and test.md files. It demonstrates how to setup a linter in css and html.
+> This project contains three simple files such as hello.html, hello.css, and test.md files. It demonstrates how to set up a linter in css and HTML.
 
 - **HTML**
 - **CSS**
@@ -109,9 +109,9 @@ Example command:
 Clone this repository to your desired folder:
 
 ```sh
-  mkdir microverse
-  cd microverse
-  git https://github.com/gama1221/hello_microverse_project.git
+  mkdir project
+  cd project
+  git https://github.com/gama1221/react-typescript-app.git
 ```
 
 ### Install
@@ -119,7 +119,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd microverse
+  cd project
   npm install
 ```
 
@@ -149,7 +149,7 @@ To run and see errors in this project, execute the following command:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to Microverse having such opportunity
+I would like to thank typescript for additional features to javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ I would like to thank to Microverse having such opportunity
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **How to setup a project with linter i.e. css linter**
+- **How to set up a project with linter i.e. css linter**
 
   - This project can have the answer
 
